@@ -50,6 +50,6 @@ This repository contains a Power BI dashboard project built using the **Facebook
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/facebook-social-interaction-dashboard.git
+   git clone https://github.com/Rajkumar-dataanalyst/FB_Ads-Analysis.git
 
 
