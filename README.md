@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard project built using the **Facebook Ads dataset**. The dashboard provides detailed insights into the performance of Facebook ad campaigns across various KPIs such as cost, impressions, reach, click-through rates, reactions, and demographics.
 
-![Dashboard Preview](./567ccb91-2688-4f3e-8d33-9c0c91d0b82f.png)
+![Dashboard Preview](https://github.com/Rajkumar-dataanalyst/FB_Ads-Analysis/blob/main/fb_dashboard_image.png?raw=true)
 
 ---
 
