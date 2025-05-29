@@ -1,4 +1,4 @@
-# 📊 Facebook Social Interaction Dashboard (Power BI)
+# Facebook Social Interaction Dashboard (Power BI)
 
 This repository contains a Power BI dashboard project built using the **Facebook Ads dataset**. The dashboard provides detailed insights into the performance of Facebook ad campaigns across various KPIs such as cost, impressions, reach, click-through rates, reactions, and demographics.
 
